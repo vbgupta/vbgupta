@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Vaibhav
 #### I am a Data Scientist
 
-You can call me VB 🏐. I am from the United States and I am a Data Scientist. I just graduated from Penn State University and I am looking forward to starting my DS journey with IBM. Apart for starting at a screen, I love playing basketball ⛹🏼‍♂️ and Formula 1 Racing 🏎.
+You can call me VB 🏐. I am from the United States and I am a Data Scientist. I just graduated from Penn State University and I am looking forward to starting my DS journey with IBM. Apart for staring at a screen, I love playing basketball ⛹🏼‍♂️ and watching Formula 1 Racing 🏎.
 
 Skills: Python / R / HTML / CSS / JS /
 
